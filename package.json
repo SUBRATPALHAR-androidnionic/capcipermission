@@ -1,0 +1,21 @@
+{
+  "name": "@subratpalhar92/capci-permission",
+  "version": "1.0.0",
+  "main": "rollup.config.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUBRATPALHAR-androidnionic/capcipermission.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SUBRATPALHAR-androidnionic/capcipermission/issues"
+  },
+  "homepage": "https://github.com/SUBRATPALHAR-androidnionic/capcipermission#readme",
+  "description": ""
+}
